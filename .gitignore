@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Pytest cache
+.pytest_cache/
+
+# Exports (generated artifacts — commit the code, not the data)
+exports/
+
+# SQLite database
+*.db
+
+# OS artifacts
+.DS_Store
+Thumbs.db
